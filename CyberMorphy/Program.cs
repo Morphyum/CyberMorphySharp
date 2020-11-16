@@ -10,6 +10,8 @@ namespace CyberMorphy
     {
         static void Main(string[] args)
         {
+            CyberMorphy bot = new CyberMorphy("slurpeeninja");
+            Console.ReadLine();
         }
     }
 }
